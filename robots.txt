@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/fimavyn/sitemap.xml
+Sitemap: https://fimavyn.vercel.app/sitemap-vercel.xml
+Sitemap: https://fimavyn.pages.dev/sitemap-cloudflare.xml
